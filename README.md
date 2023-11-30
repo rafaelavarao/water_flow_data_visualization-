@@ -2,7 +2,7 @@
 Visualization of water flow data from the company Elipse Software
 
 Comando para rodar o dashboar da região 1
-    $python regiao1
+    $python regiao1.py
 
 Comando para rodar o dashboar da região 2
-    $python regiao2
+    $python regiao2.py
